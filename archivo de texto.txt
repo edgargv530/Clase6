@@ -1,4 +1,4 @@
 Archivo texto EGV
 
 mas texto ahora en la sexta versión
-otra versión en rama dev
+otra versión
